@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noor
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently in my second year of comp sci 
+- 🌱 I’m currently in my first year of comp sci 
 - ⚡ Fun fact: i like watching kdramas 
 
 <!---
