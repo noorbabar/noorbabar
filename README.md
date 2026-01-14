@@ -2,7 +2,8 @@
 
 Computer Science Student @ UNSW (Security Engineering)
 
-# 📊 GitHub Stats:
+https://noorsportfolio.vercel.app/
+
 ![](https://github-readme-stats.vercel.app/api?username=noorbabar&theme=bear&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=noorbabar&theme=bear&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=noorbabar&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
